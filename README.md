@@ -20,13 +20,13 @@ Configured Microsoft Sentinel (Azure cloud SIEM) workbook to display global atta
 <h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/EDA8vKu.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks</h2>
 
 <p align="center">
-<img src="https://imgur.com/a/VLXVNm7" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/NWIHziF.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 
