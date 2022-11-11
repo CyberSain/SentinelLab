@@ -26,7 +26,7 @@ Configured Microsoft Sentinel (Azure cloud SIEM) workbook to display global atta
 <h2>World map of incoming attacks</h2>
 
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/a/VLXVNm7" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 
