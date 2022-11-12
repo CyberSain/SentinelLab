@@ -5,37 +5,26 @@
 </b>
 <br />
 <br />
-Configured Microsoft Sentinel (Azure cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.
+Configured Microsoft Sentinel (Azure cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to location and magnitude of attacks.
 <br />
 <br />
 
 <p align="center">
-<img src="" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/1Ai1S6j.png" height="55%" width="55%" alt=""/>
 </p>
 
 <h2>Utilities Used</h2>
 
-- <b>ipgeolocation.io:</b> IP Address to Geolocation API
+- <b>ipgeolocation.io:</b> API to convert IP Address to Geolocation
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Attacks coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/EDA8vKu.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/EDA8vKu.png" height="85%" width="85%" alt=""/>
 </p>
 
 <h2>World map of incoming attacks</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/NWIHziF.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/NWIHziF.png" height="85%" width="85%" alt=""/>
 </p>
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
