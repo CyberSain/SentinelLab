@@ -15,7 +15,7 @@ Configured Microsoft Sentinel (Azure cloud SIEM) workbook to display global atta
 
 <h2>Utilities Used</h2>
 
-- <b>ipgeolocation.io:</b> API to convert IP Address to Geolocation
+- <b>ipgeolocation.io: API to convert IP Address to Geolocation</b>
 
 <h2>Attacks coming in; Custom logs being output with geodata</h2>
 
