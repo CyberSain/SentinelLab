@@ -1,7 +1,7 @@
 <h1>Failed RDP with Microsoft Sentinel</h1>
 
 <h2>Description</h2>
-<b>Utilized a Powershell script to parse out Windows Event Logs for failed RDP attacks and using a third party API to collect information about the attackers Geographic location.
+<b>Utilized a Powershell script to parse out Windows Event Logs from Windows Event Viewer for failed RDP attacks and using a third party API to collect information about the attackers Geographic location.
 </b>
 <br />
 <br />
